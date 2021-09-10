@@ -1,5 +1,6 @@
 # Script3.1-Book scrapper
 > This script will go through each category in https://books.toscrape.com/ ,collect each book link in a category then collect the data of each book and save them in a separate csv file for each category 
+
 > Ce script collecte les liens de chaque livres présent de chaque catégorie de https://books.toscrape.com/ puis collecte les données de chaque livre et les sauvegardes dans un fichier csv séparé pour chaque catégorie.
 
 ## Table of Contents

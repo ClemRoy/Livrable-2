@@ -1,5 +1,6 @@
 # Script2-Book scrapper
 > This script will collect all book links from a category in https://books.toscrape.com/. Then it will collect data from each books and save it in a csv file. 
+
 > Ce script collecte les liens provenants d'une catégorie du site https://books.toscrape.com/ .Suite a quoi il collectera les données de chaque livre et les sauvegardera sous la forme d'un fichier csv.
 
 ## Table of Contents

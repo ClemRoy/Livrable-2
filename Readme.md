@@ -1,5 +1,6 @@
 # Script3.1-Book scrapper
-> This project aim is to collect data from https://books.toscrape.com/ to enable price variation analysis.It is composed of 4 directories containing scripts corresponding to different stage of developpement
+> This project aim is to collect data from https://books.toscrape.com/ to enable price variation analysis.It is composed of 4 directories containing scripts corresponding to different stage of developpement.
+
 > L'objectif de ce projet est de collecter des données depuis https://books.toscrape.com/ dans un but d'analyse des variations de prix.Ce dernier est composé de 4 dossier comprenant chacun un script correspondant a une étape de développement du programme.
 
 ## Table of Contents
